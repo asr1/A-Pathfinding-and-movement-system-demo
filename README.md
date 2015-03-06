@@ -1,4 +1,4 @@
-A* pathfinding and movement system in C# and MonoGame taken from the Vault-Tech engine.
+A* pathfinding and movement system in C# and MonoGame.
 
 I have been working on this code for the past two year. I hope you appreciate it and hope it helps you with your own projects.
 
